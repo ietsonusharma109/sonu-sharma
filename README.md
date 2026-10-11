@@ -112,17 +112,21 @@ Building my coding skills one problem and one project at a time.
 
 ---
 
-
----
-
-## 🐍 Contribution Snake
+## 🗓️ Contribution Heatmap
 
 <div align="center">
 
-<!-- Dark theme -->
-<img src="https://raw.githubusercontent.com/ietsonusharma109/ietsonusharma109/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<img src="https://ghchart.rshah.org/409ba5/ietsonusharma109" alt="GitHub contribution calendar" width="100%" />
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/ietsonusharma109">
+    View my complete GitHub contribution history →
+  </a>
+</p>
+
+---
 
 ## 🌟 Featured Projects
 
@@ -171,19 +175,6 @@ Building my coding skills one problem and one project at a time.
 
 </div>
 
-name: Generate Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
 
-permissions:
-  contents: write
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
