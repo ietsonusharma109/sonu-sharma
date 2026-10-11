@@ -112,21 +112,17 @@ Building my coding skills one problem and one project at a time.
 
 ---
 
-## 🗓️ Contribution Heatmap
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409ba5/ietsonusharma109" alt="GitHub contribution calendar" width="100%" />
+<!-- Dark theme -->
+<img src="https://raw.githubusercontent.com/ietsonusharma109/ietsonusharma109/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/ietsonusharma109">
-    View my complete GitHub contribution history →
-  </a>
-</p>
-
----
 
 ## 🌟 Featured Projects
 
